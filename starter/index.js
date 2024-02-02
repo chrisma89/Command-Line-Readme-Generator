@@ -6,21 +6,33 @@ const { title } = require("process");
 
 // array of questions for user
 const questions = [
+  [
+    {
+      type : "input",
+      message : "What is the title of the project",
+      name : "title"
+    }
+  ]
 
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
+  
 }
+
+
 
 // function to initialize program
 function init() {
-
+  inquirer.prompt(questions)
+  .then((data) => writeFileAsync("./output/readme.md", writeToFile(data) ))
+  .then(() => console.log("Successfully wrotebto the readme file"))
+  .catch((err) => console.error(err))
 }
 
 // function call to initialize program
 init();
-
 
 // // ------------
 // 1. Project title
@@ -33,3 +45,5 @@ init();
 // 8. Badges
 // 9. How to contribute tot he Project
 // 10. resources?
+// 11. features
+// 12. tests.
