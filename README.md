@@ -37,7 +37,8 @@ This repository has been built using
 
 ### Resources on building the webpage
 - https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
--https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+- https://dev.to/mlkrsrc/how-to-make-custom-badges-to-improve-your-markdown-documents-460k
 
 ### Installation
 

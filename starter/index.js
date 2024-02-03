@@ -18,7 +18,7 @@ const questions = [
     {
       type : "input",
       message : "Describe your project",
-      name :"Description"
+      name :"description"
     },
     {
       type : "input",
@@ -48,7 +48,7 @@ const questions = [
 },
 {
   type : "input",
-  message : "Please eneter your guthub username",
+  message : "Please enter your guthub username",
   name : "github"
 },
 {
@@ -66,9 +66,6 @@ const questions = [
   messsage : "Add resources here",
   name : "resources"
 }
-
-  
-
 ];
 
 // function to write README file
