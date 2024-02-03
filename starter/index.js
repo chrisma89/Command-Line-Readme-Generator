@@ -55,6 +55,16 @@ const questions = [
   type : "input",
   message : "Please enter your email address",
   name : "email"
+},
+{
+  type : "input",
+  message : "Add credits here",
+  name : "credits"
+},
+{
+  type : "input",
+  messsage : "Add resources here",
+  name : "resources"
 }
 
   
