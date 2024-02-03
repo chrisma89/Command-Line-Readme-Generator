@@ -1,10 +1,10 @@
-# Hello
+# kop
 
 ## About the Project: 
 
-Its a simple app
+jkhjask
 
-##Table of Contents: 
+## Table of Contents: 
 
 1.Installation 
 2.Usage 
@@ -14,8 +14,20 @@ Its a simple app
 6.Questions 
 
 ### Installation: 
-INsatll node js
+
+hgdsjzxh
 
 ### Usage: 
-install meku
+
+jhsjzjk
+
+### License: 
+
+The  is in use for this repository.
+
+### Contributing: 
+
+If you would like to contribute towards this project, it would be most welcome. You can contribute through 
+
+jhsxhjzhjjdshhjh hsjhxziio mihiwsxixuz 
 

@@ -29,7 +29,19 @@ const questions = [
       type: "input",
       message : "Please input the usage steps for the application",
       name : "usage"
-    }
+    },
+    {
+      type : "checkbox",
+      message : "Please choose a License for your application",
+      name : "license",
+      choices : ["Apache License 2.0", "GNU General Public License v3.0", "MIT license", "Creative Commons Zero v1.0 Universal", "Eclipse Pulic Licese 2.0"]
+},
+{
+  type : "input",
+  message : "How do you want others to contribute towards this project. List them here",
+  name : "contribute"
+},
+
   
 
 ];
