@@ -41,6 +41,21 @@ const questions = [
   message : "How do you want others to contribute towards this project. List them here",
   name : "contribute"
 },
+{
+  type : "input",
+  message : "How can this application be tested",
+  name : "tests"
+},
+{
+  type : "input",
+  message : "Please eneter your guthub username",
+  name : "github"
+},
+{
+  type : "input",
+  message : "Please enter your email address",
+  name : "email"
+}
 
   
 
