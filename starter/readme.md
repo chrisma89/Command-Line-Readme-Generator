@@ -1,9 +1,9 @@
-# bjbn ![License](https://img.shields.io/badge/license-MIT%20license-blue?style=for-the-badge&logoColor=blue&labelColor=white)
+#  ![](https://img.shields.io/badge/Apache%20License%202.0-blue?style=plastic&logoColor=white)
   
 
 ## About the Project: 
 
-hjbj
+
 
 ## Table of Contents: 
 
@@ -18,40 +18,40 @@ hjbj
 
 ### Installation: 
 
-jkhjhj
+
 
 ### Usage: 
 
-bhjbj
+
 
 ### License: 
 
-The MIT license is in use for this repository.
+The Apache License 2.0 is in use for this repository.
 
 ### Contributing: 
 
 If you would like to contribute towards this project, it would be most welcome.
 
-klkj
+
 
 ### Tests: 
 
-The application can be tested using jhkjn.
+The application can be tested using .
 
 ### Questions: 
 
 I If you would like to get in touch through Github, you follow the link below to find my github page
 
-https://github.com/jnjn
+https://github.com/
   
 
-If you have additional questions, you can contact me through my email address : jkjn
+If you have additional questions, you can contact me through my email address : 
 
 ### Credits: 
 
-bjjnm
+
 
 ### Resources: 
 
-jkhnjm
+
 
