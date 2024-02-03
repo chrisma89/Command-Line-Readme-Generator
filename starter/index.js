@@ -19,6 +19,16 @@ const questions = [
       type : "input",
       message : "Describe your project",
       name :"Description"
+    },
+    {
+      type : "input",
+      message : "Please input the installation process of the application",
+      name : "instalation"
+    },
+    {
+      type: "input",
+      message : "Please input the usage steps for the application",
+      name : "usage"
     }
   
 
