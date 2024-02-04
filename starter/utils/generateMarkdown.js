@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  const licenseBadge = data.license ? `![](https://img.shields.io/badge/${encodeURIComponent(data.license)}-blue?style=plastic&logoColor=white)` : '';
+  const licenseBadge = data.license ? `![License](https://img.shields.io/badge/${encodeURIComponent(data.license)}-blue?style=plastic&logoColor=white)` : '';
 
   return `# ${data.title.trim()}  ${licenseBadge}
   
@@ -9,48 +9,48 @@ function generateMarkdown(data) {
 ${data.description.trim()}
 
 ## Table of Contents: 
-1. Installation 
-2. Usage 
-3. License 
-4. Contributing 
-5. Tests 
-6. Questions 
-7. Credits 
-8. Resources 
+1. [Installation](#installation)
+2. [Usage](#usage) 
+3. [License](#license) 
+4. [Contributing](#contributing) 
+5. [Tests](#tests)
+6. [Questions](#questions) 
+7. [Credits](#credits)
+8. [Resources](#resources) 
 
 
-### Installation: 
+### Installation 
 
 ${data.installation.trim()}\
 
-### Usage: 
+### Usage 
 
 ${data.usage.trim()}
 
-### License: 
+### License 
 
 The ${data.license} is in use for this repository.
 
-### Contributing: 
+### Contributing 
 
 If you would like to contribute towards this project, it would be most welcome.
 ${data.contribute.trim()}
 
-### Tests: 
+### Tests 
 
 The application can be tested using ${data.tests.trim()}.
 
-### Questions: 
+### Questions 
 
-I If you would like to get in touch through Github, you follow the link below to find my github page [GitHub](https://github.com/${data.github.trim()}) 
+If you would like to get in touch through Github, you follow the link below to find my github page [GitHub](https://github.com/${data.github.trim()}) 
 
 If you have additional questions, you can contact me through my email address : [Email](mailto:${data.email.trim()})
 
-### Credits: 
+### Credits 
 
 ${data.credits}
 
-### Resources: 
+### Resources 
 
 ${data.resources}
 
