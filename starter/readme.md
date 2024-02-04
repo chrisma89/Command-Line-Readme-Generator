@@ -1,8 +1,8 @@
-# kl  ![](https://img.shields.io/badge/Apache%20License%202.0-blue?style=plastic&logoColor=white)
+# jop  ![](https://img.shields.io/badge/Creative%20Commons%20Zero%20v1.0%20Universal-blue?style=plastic&logoColor=white)
   
 ## About the Project: 
 
-jksahxzjk
+jhjn
 
 ## Table of Contents: 
 1. Installation 
@@ -17,36 +17,35 @@ jksahxzjk
 
 ### Installation: 
 
-jsdbxjjksz
+vhbhjnm
 ### Usage: 
 
-ahxbzjhbsjzn
+vhbnb
 
 ### License: 
 
-The Apache License 2.0 is in use for this repository.
+The Creative Commons Zero v1.0 Universal is in use for this repository.
 
 ### Contributing: 
 
 If you would like to contribute towards this project, it would be most welcome.
-wjskx
+hbhb
 
 ### Tests: 
 
-The application can be tested using jsbxj.
+The application can be tested using bjnm.
 
 ### Questions: 
 
-I If you would like to get in touch through Github, you follow the link below to find my github page[GitHub Profile](https://github.com/bdhsjbxhn) 
+I If you would like to get in touch through Github, you follow the link below to find my github page  [GitHub](https://github.com/chrisma89) 
 
-If you have additional questions, you can contact me through my email address : bwhsbzhb
-
+If you have additional questions, you can contact me through my email address : [Email](mailto:sweetchrisma@gmail.com)
 
 ### Credits: 
 
-bhsjxbj
+hjjkm
 
 ### Resources: 
 
-jbshxn
+hvhbk
 
