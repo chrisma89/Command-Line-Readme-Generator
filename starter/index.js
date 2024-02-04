@@ -23,7 +23,7 @@ const questions = [
     {
       type : "input",
       message : "Please input the installation process of the application",
-      name : "instalation"
+      name : "installation"
     },
     {
       type: "input",

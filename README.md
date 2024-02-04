@@ -39,6 +39,8 @@ This repository has been built using
 - https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - https://dev.to/mlkrsrc/how-to-make-custom-badges-to-improve-your-markdown-documents-460k
+- https://anvilproject.org/guides/content/creating-links#:~:text=Markdown%20syntax%20for%20a%20hyperlink,the%20parentheses%20hold%20the%20link.
+- https://www.w3schools.io/file/markdown-links/?utm_content=cmp-true
 
 ### Installation
 
