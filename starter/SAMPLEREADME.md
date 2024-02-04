@@ -1,8 +1,8 @@
-#   ![](https://img.shields.io/badge/-blue?style=plastic&logoColor=white)
+# CommandLineReadme  ![](https://img.shields.io/badge/MIT%20license-blue?style=plastic&logoColor=white)
   
 ## About the Project: 
 
-
+This app helps the users to create a professional high quality readme file. It has been created using NODE.js
 
 ## Table of Contents: 
 1. [Installation](#installation)
@@ -17,35 +17,35 @@
 
 ### Installation 
 
-
+Install node.js for your computer. Run npm init -y on the command line. Install  inquirer package using npm i inquirer
 ### Usage 
 
-
+This can be used to create a README file for your applications.
 
 ### License 
 
-The  is in use for this repository.
+The MIT license is in use for this repository.
 
 ### Contributing 
 
 If you would like to contribute towards this project, it would be most welcome.
-
+Please get in touch with any updates to the codebase      , that will improve the functionality or the content of the README file that is being generated using this app
 
 ### Tests 
 
-The application can be tested using .
+The application can be tested using N/A.
 
 ### Questions 
 
-If you would like to get in touch through Github, you follow the link below to find my github page [GitHub](https://github.com/) 
+If you would like to get in touch through Github, [Click Here](https://github.com/chrisma89) 
 
-If you have additional questions, you can contact me through my email address : [Email](mailto:)
+If you have additional questions, you can contact me through my email address : [Email](mailto:chrismacaroline@gmail.com)
 
 ### Credits 
 
-
+N/A
 
 ### Resources 
 
-
+N/A
 
