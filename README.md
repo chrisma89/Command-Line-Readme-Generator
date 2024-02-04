@@ -34,14 +34,18 @@ This repository has been built using
 
 To get started on creating a readme file, Node.js can be installed through visiting https://nodejs.org/en . This will also install the npm (Node Package Manager)
 The package.json can be installed through entering npm init command on the CLI.
-The upon executing the 'node index.js' command, the prompts for the readme generator shoukd start
+To install the inquirer package:  'node i inquirer' command is executed through the command line.
+The upon executing the 'node index.js' command, the prompts for the readme generator should start
 The code can be viewed at github: https://github.com/chrisma89/Command-Line-Readme-Generator
 
 ### Usage
 
+This application sia great tool for creating a high qulity professional README file and ensures that all the imposrtant sections are reminded tot he user through prompts of the inquirer package
+
 ### Credits
 
-
+Thanks tot he curriculum team behing BCS for the starter files.
+Thanks to the instructor, Laura Cole, for expalining the project and its requiremnets.
 
 ### Licence
 
