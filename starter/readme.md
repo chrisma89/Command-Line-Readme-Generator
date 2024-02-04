@@ -1,51 +1,51 @@
-# IOP  ![License](https://img.shields.io/badge/-blue?style=plastic&logoColor=white)
+# REAdeme Generator  ![](https://img.shields.io/badge/Apache%20License%202.0-blue?style=plastic&logoColor=white)
   
 ## About the Project: 
 
-njwnsd
+kndjmc
 
 ## Table of Contents: 
-1. [Installation](#Installation)
-2. [Usage](#Usage) 
-3. [License](#License) 
-4. [Contributing](#Contributing) 
-5. [Tests](#Tests)
-6. [Questions](#Questions) 
-7. [Credits](#Credits)
-8. [Resources](#Resources) 
+1. [Installation](#installation)
+2. [Usage](#usage) 
+3. [License](#license) 
+4. [Contributing](#contributing) 
+5. [Tests](#tests)
+6. [Questions](#questions) 
+7. [Credits](#credits)
+8. [Resources](#resources) 
 
 
 ### Installation 
 
-nsm,nxcm ,m,sdnxmncbdnfbcxnm
+njsdxc
 ### Usage 
 
-jdbsnbdcb hbsdhjxc
+bsdxnc
 
 ### License 
 
-The  is in use for this repository.
+The Apache License 2.0 is in use for this repository.
 
 ### Contributing 
 
 If you would like to contribute towards this project, it would be most welcome.
-jsbdc
+lk
 
 ### Tests 
 
-The application can be tested using wnmbsd.
+The application can be tested using sd.
 
 ### Questions 
 
-If you would like to get in touch through Github, you follow the link below to find my github page [GitHub](https://github.com/wnbsdc) 
+If you would like to get in touch through Github, you follow the link below to find my github page [GitHub](https://github.com/ws) 
 
-If you have additional questions, you can contact me through my email address : [Email](mailto:wnbdsnc)
+If you have additional questions, you can contact me through my email address : [Email](mailto:a)
 
 ### Credits 
 
-sndbcm
+a
 
 ### Resources 
 
-wjsdbcj
+a
 

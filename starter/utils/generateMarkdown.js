@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  const licenseBadge = data.license ? `![License](https://img.shields.io/badge/${encodeURIComponent(data.license)}-blue?style=plastic&logoColor=white)` : '';
+  const licenseBadge = data.license ? `![](https://img.shields.io/badge/${encodeURIComponent(data.license)}-blue?style=plastic&logoColor=white)` : '';
 
   return `# ${data.title.trim()}  ${licenseBadge}
   
