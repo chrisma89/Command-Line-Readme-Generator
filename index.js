@@ -84,7 +84,7 @@ function init() {
   inquirer
     .prompt(questions)
     .then((data) => {
-      return writeToFile("SAMPLEREADME.md", data);
+      return writeToFile("./output/SAMPLEREADME.md", data);
     })
     .then(() => console.log("Successfully wrote to the readme file"))
     .catch((err) => console.log(err));
