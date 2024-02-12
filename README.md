@@ -43,8 +43,8 @@ This application is a great tool for creating a high qulity professional README 
 
 ### Credits
 
-Thanks tot he curriculum team behind BCS for the starter files.
-Thanks to the instructor, Laura Cole, for expalining the project and its requirements.
+Thanks to the curriculum team behind BCS for the starter files.
+Thanks to the instructor, Laura Cole, for explaining the project and its requirements.
 
 ### Licence
 
